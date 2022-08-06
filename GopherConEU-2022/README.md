@@ -14,7 +14,7 @@ Link to the slides [here](https://docs.google.com/presentation/d/1LYuj5cy_IUriAN
 
 ### Code samples
 
-Link to the sample of codes in the github repository [tiny-hen](https://github.com/doniacld/tinygo-hen)
+Link to the sample of codes in the github repository [tiny-hen](https://github.com/doniacld/tiny-hen)
 
 ### To go further
 
