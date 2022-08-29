@@ -3,7 +3,7 @@
 Hello you,
 
 I am happy to share here my given talks.
-The decks, cfp even not accepted, slides, YouTube video are added here.
+The decks, cfp even not accepted, slides, [YouTube videos](https://youtube.com/playlist?list=PLOuyi02EFShV1Lt-vqLhfoseTgAJiDY8K) are added here.
 
 | Topic                                                                                            | Event                                                | Date     |
 |--------------------------------------------------------------------------------------------------|------------------------------------------------------|----------|
