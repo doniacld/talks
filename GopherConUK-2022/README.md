@@ -1,6 +1,6 @@
 # TinyGo: Getting the upper hen
 
-This talk was given at the [GopherCon Europe](https://gophercon.eu/) in Berlin in 2022.  
+This talk was given at the [GopherCon UK](https://www.gophercon.co.uk/) in London in 2022.  
 The goal of this talk was to introduce TinyGo and show a practical and fun application of using Go and TinyGo.
 
 ## Links
@@ -10,7 +10,7 @@ Not yet available
 
 ### Slides
 
-Link to the slides [here](https://docs.google.com/presentation/d/1LYuj5cy_IUriANhScdCl36UuP86xVWtoNbVKL6VEqSM/edit?usp=sharing).
+Link to the slides [here](https://speakerdeck.com/doniacld/tinygo-getting-the-upper-hen-gopherconuk-2022).
 
 ### Code samples
 
@@ -28,7 +28,7 @@ Link to the sample of codes in the github repository [tiny-hen](https://github.c
 TinyGo: Getting the upper hen
 
 **Time**  
-25 minutes
+50 minutes (35 mins presentation + 10 mins Q&A)
 
 **Elevator Pitch**
 Do you want to combine your love for Go and a useful personal project? 
