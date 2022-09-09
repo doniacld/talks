@@ -6,7 +6,7 @@ The goal of this talk was to introduce TinyGo and show a practical and fun appli
 ## Links
 ### Video
 
-Not yet available
+[YouTube video](https://youtu.be/BNdsDnrjx8Q?list=PLOuyi02EFShV1Lt-vqLhfoseTgAJiDY8K)
 
 ### Slides
 
