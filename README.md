@@ -12,3 +12,4 @@ The decks, cfp even not accepted, slides, [YouTube videos](https://youtube.com/p
 | [TinyGo: Getting the upper hen](./GopherConEU-2022/README.md)                                             | GopherCon Europe 2022                                | 22.07.30 |
 | [TinyGo: Getting the upper hen](./GopherConUK-2022/README.md) (long version)                              | GopherCon UK 2022                                    | 22.08.17 |
 | [Do's and Don'ts moving to Go microservices architecture](./ContainerDays-2022/README.md) (short version) | ContainerDays 2022                                   | 22.09.06 |
+| [TinyGo: Getting the upper hen](./GopherCon-2022/README.md)                                               | GopherCon 2022                                       | 22.10.08 |
